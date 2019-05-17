@@ -14,6 +14,3 @@ This is where I put some of my notes, so that I can save a little bit of time wh
 * [Thermoelectricity](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Thermoelectricity/Thermoelectricity.ipynb) **WIP**
   * Thermoelectric Generator (TEG)
   * Thermoelectric Cooler (TEC)
-
-## 中国历史
-* [中国历史年表](https://github.com/flamanta/notes/blob/master/中国历史/中国历史年表.md) **WIP**
