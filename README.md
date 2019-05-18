@@ -4,6 +4,7 @@ This is where I put some of my notes, so that I can save a little bit of time wh
 
 ## Maths
 * [Fourier Transform](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Fourier%20Transform/Fourier%20Transform.ipynb) **WIP**
+* [Taylor Series](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Taylor%20Series/Taylor%20Series.ipynb) **WIP**
 
 ## Physics
 * [Quantum Mechanics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Quantum%20Mechanics/Quantum%20Mechanics.ipynb)
