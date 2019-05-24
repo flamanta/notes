@@ -7,6 +7,7 @@ This is where I put some of my notes, so that I can save a little bit of time wh
 * [Taylor Series](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Taylor%20Series/Taylor%20Series.ipynb) **WIP**
 
 ## Physics
+* [Geometrical Optics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Geometrical%20Optics/Geometrical%20Optics.ipynb) **WIP**
 * [Quantum Mechanics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Quantum%20Mechanics/Quantum%20Mechanics.ipynb)
   *  Normalized Schrodinger Equations for Hydrogen Atom for n = 1, 2, 3
 * [Thermodynamics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Thermodynamics/Thermodynamics.ipynb) **WIP**
