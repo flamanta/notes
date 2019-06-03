@@ -2,6 +2,10 @@
 Compiling notes for different topics! <br>
 This is where I put some of my notes, so that I can save a little bit of time when working on ![equation](https://latex.codecogs.com/gif.latex?%5CLaTeX).
 
+## Control Engineering
+* [Kalman Filter](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Kalman%20Filter/Kalman%20Filter.ipynb)
+  * g-h filter (α-β Filter)
+
 ## History
 * Cold War **COMING SOON**
 
