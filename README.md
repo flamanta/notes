@@ -7,7 +7,7 @@ This is where I put some of my notes, so that I can save a little bit of time wh
   * g-h filter (α-β Filter)
 
 ## History
-* Cold War **COMING SOON**
+* [Cold War](https://github.com/flamanta/notes/blob/master/Cold%20War/Cold%20War.md)
 
 ## Maths
 * [Fourier Transform](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Fourier%20Transform/Fourier%20Transform.ipynb) **WIP**
