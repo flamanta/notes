@@ -1,5 +1,6 @@
 # Notes
-Compiling notes for different topics! <br>
+Compiling notes for different topics!
+
 This is where I put some of my notes, so that I can save a little bit of time when working on ![equation](https://latex.codecogs.com/gif.latex?%5CLaTeX).
 
 ## Control Engineering
