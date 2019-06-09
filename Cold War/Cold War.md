@@ -19,3 +19,7 @@
 * 5 Sep: Defection of Igor Gouzenko
 * Nov: Establishment of pro-Soviet Azerbaijan People's Government and Republic of Mahabad in Iran
   * Beginning of *Iran Crisis*
+
+## 1946
+
+* 19 Jan: Houma Campaign begins, marking the resumption of the Chinese Civil War 
