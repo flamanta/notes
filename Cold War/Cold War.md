@@ -22,4 +22,5 @@
 
 ## 1946
 
+* 11 Jan: Declaration of People's Republic of Albania
 * 19 Jan: Houma Campaign begins, marking the resumption of the Chinese Civil War 
