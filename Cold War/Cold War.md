@@ -23,5 +23,16 @@
 ## 1946
 
 * 11 Jan: Declaration of People's Republic of Albania
-* 19 Jan: Houma Campaign begins, marking the resumption of the Chinese Civil War 
-hmm
+* 19 Jan: Houma Campaign begins 
+  * Resumption of Chinese Civil War
+* 22 Jan: The Long Telegram arrives in the US
+* March: Resumption of Greek Civil War
+* 2 Mar: Deadline for withdrawal of troops from Iran
+  * Soviet Union ignores the deadline
+* 6 Mar: Churchill's Sinews of Peace address
+  * Warns of a descent of an *Iron Curtain* across Europe
+* 4 Jul: The Philippines gains independence from the US
+  * Continues fighting communist Huk rebels
+* 6 Sep: Restatement of Policy on Germany speech
+  * Repudiated Morgenthau Plan
+  * US to maintain military presence in Europe indefinitely
