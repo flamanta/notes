@@ -7,12 +7,19 @@
 * 4 - 11 Feb: Yalta Conference
 * Feb - May: Operation Sunrise
 * 12 Apr: Roosevelt dies; Truman succeeds him as President of the United States
+* 25 Apr: Elbe Day
+  * American and Soviet troops link up at Elbe River, cutting Germany in two
+* 3 May: German rocket scientist Wernhern von Braun and his team surrender to US forces
+  * Start of Operation Paperclip (1945 - 1959)
 * 8 May: Signing of German Instrument of Surrender
-* 28 Jun: Establishment of Provisional Government of National Unity in Polands
+* 28 Jun: Establishment of Provisional Government of National Unity in Poland
+* 16 Jul: First detonation of nuclear bomb, the Trinity Test, was conducted by the US Army
 * 17 Jul - 2 Aug: Potsdam Conference 
 * 6 Aug: Atomic bombing of Hiroshima
 * 8 Aug: Soviet Union declares war on Japan and invades Manchuria
 * 9 Aug: Atomic bombing of Nagasaki
+* 12 Aug: Smyth Report 
+  * Official US account of atomic bomb development
 * 9 - 20 Aug: Soviet invasion of Manchuria
 * 15 Aug: Jewel Voice Broadcast
 * 28 Aug: Occupation of Japan begins
