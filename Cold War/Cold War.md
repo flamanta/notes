@@ -50,3 +50,11 @@
   - Held in presence of Soviet army
   - 97% vote for republic
   - Viewed by Western countries as biased
+- 24 Sep: Clifford-Elsey Report presented to Truman
+  - First mention of the concept of Containment
+- 27 Sep: Novikov Telegram published
+  - USSR: US is "striving for world supremacy"
+- 23 Nov: Haiphong Massacre
+  - Start of _First Indochina War_
+- 15 Dec: USSR withdraws from Iran
+  - End of _Iran Crisis_
