@@ -30,14 +30,20 @@
 
 ## 1946
 
+- 6 Jan: North Vietnamese legislative election
+  - Resulted in victory of Communist-led _Viet Minh_
 - 11 Jan: Declaration of People's Republic of Albania
 - 19 Jan: Houma Campaign begins
   - Resumption of Chinese Civil War
 - 22 Jan: The Long Telegram arrives in the US
+- 31 Jan: 1946 Yugoslav Consitution
+  - Modelled after Soviet Union with 6 constituent republics
+- 1 Feb: Kingdom of Hungary dissolved
+  - Replaced by Second Hungarian Republic
 - March: Resumption of Greek Civil War
 - 2 Mar: Deadline for withdrawal of troops from Iran
   - Soviet Union ignores the deadline
-- 6 Mar: Churchill's Sinews of Peace address
+- 5 Mar: Churchill's Sinews of Peace address
   - Warns of a descent of an _Iron Curtain_ across Europe
 - 1 - 25 Jul: Operation Crossroads
   - First detonations of nuclear bombs since atomic bombing of Nagasaki
