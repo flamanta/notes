@@ -13,7 +13,7 @@ This is where I put some of my notes, so that I can save a little bit of time wh
 
 ## History
 
-- [Cold War](https://github.com/flamanta/notes/blob/master/Cold%20War/Cold%20War.md)
+- [Cold War](https://github.com/flamanta/notes/blob/master/Cold%20War/Cold%20War.md) **WIP**
 
 ## Maths
 
