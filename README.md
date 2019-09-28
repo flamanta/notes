@@ -6,6 +6,8 @@ Compiling notes for different topics!
 
 This is where I put some of my notes, so that I can save a little bit of time when working on ![equation](https://latex.codecogs.com/gif.latex?%5CLaTeX).
 
+To be migrated into a documentation site, coming soon!
+
 ## Control Engineering
 
 - [Kalman Filter](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Kalman%20Filter/Kalman%20Filter.ipynb)
@@ -31,3 +33,13 @@ This is where I put some of my notes, so that I can save a little bit of time wh
 - [Thermoelectricity](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Thermoelectricity/Thermoelectricity.ipynb) **WIP**
   - Thermoelectric Generator (TEG)
   - Thermoelectric Cooler (TEC)
+
+# Author
+
+👤 Wei Min Cher
+
+GitHub: [@flamanta](https://github.com/flamanta)
+
+# Show Your Support
+
+Please ⭐️ this repository if this project helped you!
