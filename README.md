@@ -1,45 +1,34 @@
-# Notes
+&nbsp;
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+<p align="center">
+  <a href="https://flamanta.github.io/notes/">
+    <img src="https://raw.githubusercontent.com/flamanta/notes/master/images/flamanta-notes.png" alt="flamanta-notes" />
+  </a>
+</p>
 
-Compiling notes for different topics!
+<p align="center"> <a href="https://github.com/flamanta" alt=""/>@flamanta</a>'s notes compilation website. Powered by <a href=https://www.mkdocs.org>MkDocs</a> and <a href=https://squidfunk.github.io/mkdocs-material/> Material</a>.</p>
 
-This is where I put some of my notes, so that I can save a little bit of time when working on ![equation](https://latex.codecogs.com/gif.latex?%5CLaTeX).
+<hr>
+<p align="center">
+ <a href="https://github.com/prettier/prettier">
+        <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" />
+    </a>
+</p>
 
-To be migrated into a documentation site, coming soon!
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-## Control Engineering
+The intent of this site is to gather all my scattered notes that I have written in ![equation](https://latex.codecogs.com/gif.latex?%5CLaTeX) in one place. This will allow me to save significant amounts of time when I need to type them out again in the future.
 
-- [Kalman Filter](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Kalman%20Filter/Kalman%20Filter.ipynb)
-  - g-h filter (α-β Filter)
+This is a work in progress, and will always be a work in progress. There is just so much knowledge that I can gather in a single lifetime.
 
-## History
+Anybody is welcome to freely browse and contribute via pull requests to this repository.
 
-- [Cold War](https://github.com/flamanta/notes/blob/master/Cold%20War/Cold%20War.md) **WIP**
+## Another project by...
 
-## Maths
+👤 Wei Min Cher [@flamanta](https://github.com/flamanta)
 
-- [Fourier Transform](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Fourier%20Transform/Fourier%20Transform.ipynb) **WIP**
-- [Taylor Series](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Taylor%20Series/Taylor%20Series.ipynb) **WIP**
+_Open Source Enthusiast | Engineer | Researcher | Writer_
 
-## Physics
-
-- [Geometrical Optics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Geometrical%20Optics/Geometrical%20Optics.ipynb) **WIP**
-- [Quantum Mechanics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Quantum%20Mechanics/Quantum%20Mechanics.ipynb)
-  - Normalized Schrodinger Equations for Hydrogen Atom for n = 1, 2, 3
-- [Thermodynamics](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Thermodynamics/Thermodynamics.ipynb) **WIP**
-  - Heat Transfer
-  - Control Volume
-- [Thermoelectricity](https://nbviewer.jupyter.org/github/flamanta/notes/blob/master/Thermoelectricity/Thermoelectricity.ipynb) **WIP**
-  - Thermoelectric Generator (TEG)
-  - Thermoelectric Cooler (TEC)
-
-# Author
-
-👤 Wei Min Cher
-
-GitHub: [@flamanta](https://github.com/flamanta)
-
-# Show Your Support
+I am currently a EPD Electrical Engineering Sophomore at Singapore University of Technology and Design. Do drop me a message for any opportunities!
 
 Please ⭐️ this repository if this project helped you!
